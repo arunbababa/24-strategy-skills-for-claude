@@ -1,0 +1,95 @@
+[
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/negotiation-prep/scripts/batna_zopa.py",
+    "supplement": "localization/code-notes/skills/negotiation-prep/scripts/batna_zopa.py.md",
+    "status": "reviewed",
+    "items": 33,
+    "revised_items": 20,
+    "notes": "留保価格、BATNA、交渉離脱、ZOPA不成立時の選択肢を補正。合意不可能の否定反転を訂正。設定JSONとコマンドを原文のまま復元。"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/synergy-case-builder/scripts/synergy_case.py",
+    "supplement": "localization/code-notes/skills/synergy-case-builder/scripts/synergy_case.py.md",
+    "status": "reviewed",
+    "items": 20,
+    "revised_items": 12,
+    "notes": "JSONとコマンドを復元し、ramp、haircut、単独採算との分離、リスクの訳を補正。売上シナジー依存が利益を増やすという誤訳を修正。"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/unit-economics-health-check/scripts/unit_economics.py",
+    "supplement": "localization/code-notes/skills/unit-economics-health-check/scripts/unit_economics.py.md",
+    "status": "reviewed",
+    "items": 23,
+    "revised_items": 12,
+    "notes": "JSON・ファイル名を復元。初期解約集中とLTV過大評価、利益額/利益率、継続率、CAC回収期間、成長を止める条件の誤訳を修正。"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/spans-layers-org-design/scripts/spans_layers.py",
+    "supplement": "localization/code-notes/skills/spans-layers-org-design/scripts/spans_layers.py.md",
+    "status": "reviewed",
+    "items": 16,
+    "revised_items": 8,
+    "notes": "設定JSONと実行構文を復元。管理スパン、非管理職、必要数と実数の差、階層過剰の原因を補訳。"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/market-mapping/scripts/tam_sam_som.py",
+    "supplement": "localization/code-notes/skills/market-mapping/scripts/tam_sam_som.py.md",
+    "status": "reviewed",
+    "items": 13,
+    "revised_items": 8,
+    "notes": "triangulated=複数方法の照合、variance=差異、serviceability=提供可能性、run-rateの訳を修正。30%超の厳密条件とJSON識別子を復元。"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/pricing-strategy/scripts/pricing_calculator.py",
+    "supplement": "localization/code-notes/skills/pricing-strategy/scripts/pricing_calculator.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+    "supplement": "localization/code-notes/skills/stakeholder-alignment/scripts/power_interest_grid.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+    "supplement": "localization/code-notes/skills/full-potential-diagnostic/scripts/full_potential_calc.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/war-gaming/scripts/decision_tree_ev.py",
+    "supplement": "localization/code-notes/skills/war-gaming/scripts/decision_tree_ev.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/business-case-builder/scripts/npv_case.py",
+    "supplement": "localization/code-notes/skills/business-case-builder/scripts/npv_case.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/risk-mitigation/scripts/risk_matrix.py",
+    "supplement": "localization/code-notes/skills/risk-mitigation/scripts/risk_matrix.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+    "supplement": "localization/code-notes/skills/capital-reallocation-review/scripts/portfolio_matrix.py.md",
+    "status": "reviewed"
+  },
+  {
+    "repo": "24-strategy-skills-for-claude",
+    "source": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+    "supplement": "localization/code-notes/skills/initiative-prioritizer/scripts/rice_prioritizer.py.md",
+    "status": "reviewed"
+  }
+]

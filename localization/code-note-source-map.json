@@ -1,0 +1,67 @@
+[
+  {
+    "source": "skills/business-case-builder/scripts/npv_case.py",
+    "supplement": "localization/code-notes/skills/business-case-builder/scripts/npv_case.py.md",
+    "items": 12
+  },
+  {
+    "source": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+    "supplement": "localization/code-notes/skills/capital-reallocation-review/scripts/portfolio_matrix.py.md",
+    "items": 14
+  },
+  {
+    "source": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+    "supplement": "localization/code-notes/skills/full-potential-diagnostic/scripts/full_potential_calc.py.md",
+    "items": 12
+  },
+  {
+    "source": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+    "supplement": "localization/code-notes/skills/initiative-prioritizer/scripts/rice_prioritizer.py.md",
+    "items": 14
+  },
+  {
+    "source": "skills/market-mapping/scripts/tam_sam_som.py",
+    "supplement": "localization/code-notes/skills/market-mapping/scripts/tam_sam_som.py.md",
+    "items": 13
+  },
+  {
+    "source": "skills/negotiation-prep/scripts/batna_zopa.py",
+    "supplement": "localization/code-notes/skills/negotiation-prep/scripts/batna_zopa.py.md",
+    "items": 33
+  },
+  {
+    "source": "skills/pricing-strategy/scripts/pricing_calculator.py",
+    "supplement": "localization/code-notes/skills/pricing-strategy/scripts/pricing_calculator.py.md",
+    "items": 19
+  },
+  {
+    "source": "skills/risk-mitigation/scripts/risk_matrix.py",
+    "supplement": "localization/code-notes/skills/risk-mitigation/scripts/risk_matrix.py.md",
+    "items": 14
+  },
+  {
+    "source": "skills/spans-layers-org-design/scripts/spans_layers.py",
+    "supplement": "localization/code-notes/skills/spans-layers-org-design/scripts/spans_layers.py.md",
+    "items": 16
+  },
+  {
+    "source": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+    "supplement": "localization/code-notes/skills/stakeholder-alignment/scripts/power_interest_grid.py.md",
+    "items": 22
+  },
+  {
+    "source": "skills/synergy-case-builder/scripts/synergy_case.py",
+    "supplement": "localization/code-notes/skills/synergy-case-builder/scripts/synergy_case.py.md",
+    "items": 20
+  },
+  {
+    "source": "skills/unit-economics-health-check/scripts/unit_economics.py",
+    "supplement": "localization/code-notes/skills/unit-economics-health-check/scripts/unit_economics.py.md",
+    "items": 23
+  },
+  {
+    "source": "skills/war-gaming/scripts/decision_tree_ev.py",
+    "supplement": "localization/code-notes/skills/war-gaming/scripts/decision_tree_ev.py.md",
+    "items": 17
+  }
+]

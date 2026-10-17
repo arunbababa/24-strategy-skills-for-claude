@@ -363,10 +363,18 @@
   },
   "supplementary_translations": [
     {
+      "source": ".gitignore",
+      "output": "ja/.gitignore.md",
+      "source_sha256": "aa5c45b73c4c9d76ad5f472e85354aed48de60640882252dc26d9ec1eacb0260",
+      "output_sha256": "eae50ad1be12fc0b1444b2b9d802701c451b92b13aabd4aeed0e5339efd2235d",
+      "status": "source-compared Japanese reference translation; original license or configuration unchanged"
+    },
+    {
       "source": "LICENSE",
       "output": "ja/LICENSE.md",
       "source_sha256": "da005318a0ee959cac8e0317b11f3608575f2a4c7ce9a74dd4218c7544cf3ee5",
-      "output_sha256": "69c4920129c0306315c6e48a46ad2200432de2ed135d054e705ecb22d2eed545"
+      "output_sha256": "69c4920129c0306315c6e48a46ad2200432de2ed135d054e705ecb22d2eed545",
+      "status": "source-compared Japanese reference translation; original license or configuration unchanged"
     }
   ],
   "unchanged_asset_copies": [
@@ -451,6 +459,148 @@
   ],
   "prose_in_code_notes": {
     "path": "localization/CODE-AND-FENCE-NOTES.ja.md",
-    "status": "machine-translated reference draft; original code unchanged"
+    "status": "complete source-compared AI translation of all extracted prose; original code unchanged",
+    "unique_sources": 13,
+    "unique_items": 229,
+    "synchronized_documents": 13,
+    "synchronized_items": 229
+  },
+  "code_prose_supplements": [
+    {
+      "source": "skills/business-case-builder/scripts/npv_case.py",
+      "output": "localization/code-notes/skills/business-case-builder/scripts/npv_case.py.md",
+      "source_sha256": "c07b7d6536043ee1cb7c569b2c5b25daa9b14bedb8e8f37737d43f274745f282",
+      "output_sha256": "262f648b7b3bb6f2d99eb99d1463e3ff580c526f1f5ed3699f9b8763f01d67ee",
+      "original_quotes_sha256": "fbb4a2c7a1a09649b9f0cd8941c0415736040c1f38aee906b64f1f9c1a76dcc1",
+      "quote_count": 12,
+      "reviewed_canonical_source": "skills/business-case-builder/scripts/npv_case.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+      "output": "localization/code-notes/skills/capital-reallocation-review/scripts/portfolio_matrix.py.md",
+      "source_sha256": "ab81e4321f23dc5f8c09dfcd5203e52032e2dc764c2bd7060205c0cf6f08e4ec",
+      "output_sha256": "586449e8dc6323692d6e3a526b007e1cd8bdec4750fbb8956ed2bc5dd2d14a64",
+      "original_quotes_sha256": "9dba9a3569a416a813e0675a90e2aa18816b38db8531e028f228f3b6659dfaa4",
+      "quote_count": 14,
+      "reviewed_canonical_source": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+      "output": "localization/code-notes/skills/full-potential-diagnostic/scripts/full_potential_calc.py.md",
+      "source_sha256": "50cc8dc6a60874fe4051b3455c41a56e6f407c908fef07456c807484a14391f9",
+      "output_sha256": "407df1ec9b229a67ead4e9771ee2e452d334de8da8a37314252e3e3e33387bfa",
+      "original_quotes_sha256": "87848396a5bb92d9f2703ae5784697c6174266388d2af8016a2a90e951efe6c8",
+      "quote_count": 12,
+      "reviewed_canonical_source": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+      "output": "localization/code-notes/skills/initiative-prioritizer/scripts/rice_prioritizer.py.md",
+      "source_sha256": "793eedce964d0b818d079225fdfc59e2f7a437a742e4e3f4e69e6ebd11248a79",
+      "output_sha256": "185ee6b186081a723f1029ab34bd1285fee06feeef68b2b6885c855fd9d179a6",
+      "original_quotes_sha256": "19800e88fe055cd6693eec5cf13af231ece12d9c53b28e4398b11b1d3c850577",
+      "quote_count": 14,
+      "reviewed_canonical_source": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/market-mapping/scripts/tam_sam_som.py",
+      "output": "localization/code-notes/skills/market-mapping/scripts/tam_sam_som.py.md",
+      "source_sha256": "d8fc81267a0b37b10b9ad65507f7639dfa64ad0a88143c1e236b93d40b1c22a3",
+      "output_sha256": "0028859773169326f4be9a65c2ca292adc901ae7ab94dc50624f1c4d61dd92db",
+      "original_quotes_sha256": "a501ff6ac2578586668213eaa3a2c187d15b9537571bbd12acabfb3dc3fd9842",
+      "quote_count": 13,
+      "reviewed_canonical_source": "skills/market-mapping/scripts/tam_sam_som.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/negotiation-prep/scripts/batna_zopa.py",
+      "output": "localization/code-notes/skills/negotiation-prep/scripts/batna_zopa.py.md",
+      "source_sha256": "2b68397b9e96da673fcb9ec0512066d17fb7e7ef07866393d24219f1f5f7d612",
+      "output_sha256": "84268956f9742241824bce6fc78e8c7910cd5a372d78b43f474b944957f86923",
+      "original_quotes_sha256": "d077c5a4851f2f03c0c60742cbde9b568740beacb6d3b90af9f6647c1fe5de09",
+      "quote_count": 33,
+      "reviewed_canonical_source": "skills/negotiation-prep/scripts/batna_zopa.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/pricing-strategy/scripts/pricing_calculator.py",
+      "output": "localization/code-notes/skills/pricing-strategy/scripts/pricing_calculator.py.md",
+      "source_sha256": "7a9f312a2377c4bb1be19698eebe62347127db55f7b46b96c196e5c5a9b3543d",
+      "output_sha256": "5b790272ce9c5ce5de47c86e2f8ebb4a77d9c038c262f92523c75bc85b96f8be",
+      "original_quotes_sha256": "6bd0c19cf8081a7d19dcf281ec03e28c09dcab7561a3cf02657f7a8f58acbeda",
+      "quote_count": 19,
+      "reviewed_canonical_source": "skills/pricing-strategy/scripts/pricing_calculator.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/risk-mitigation/scripts/risk_matrix.py",
+      "output": "localization/code-notes/skills/risk-mitigation/scripts/risk_matrix.py.md",
+      "source_sha256": "86926e3099667c1e6279666224c886299a92229f07aff81e08aef642aebc0634",
+      "output_sha256": "e1e408b65848d79400a90ccb35518695fbffd8a24242182ff6e0dccf0926bc42",
+      "original_quotes_sha256": "e78146ec0f94abc8bd3d866bb533cce4b82c3ca18bcb9b43fced3705177c3597",
+      "quote_count": 14,
+      "reviewed_canonical_source": "skills/risk-mitigation/scripts/risk_matrix.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/spans-layers-org-design/scripts/spans_layers.py",
+      "output": "localization/code-notes/skills/spans-layers-org-design/scripts/spans_layers.py.md",
+      "source_sha256": "899e35ab36f6ea0c172a8aa1604092961a12f297eb8baeec4c024de925ad7d63",
+      "output_sha256": "a5508a389b688c8fc70a255fda89a5b2682160c68f49a2b5b6d85aae836f1023",
+      "original_quotes_sha256": "ee92030350f68ebf5b72c483a28833e468f264e06b4a168d4cff551fdeaeabcc",
+      "quote_count": 16,
+      "reviewed_canonical_source": "skills/spans-layers-org-design/scripts/spans_layers.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+      "output": "localization/code-notes/skills/stakeholder-alignment/scripts/power_interest_grid.py.md",
+      "source_sha256": "52db9de7ca1f9da7f50196c333acaf55b966d378c7cb0bd97edb313b1c32d174",
+      "output_sha256": "73b9bae4cf29141a422b6e79e3c4a67efbda8a87b473c5e918a48c06e7cebf57",
+      "original_quotes_sha256": "f9c6d4f0faaf214aedbd1190506fe3303999db9d831ac36c3320ca3856bfbc1b",
+      "quote_count": 22,
+      "reviewed_canonical_source": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/synergy-case-builder/scripts/synergy_case.py",
+      "output": "localization/code-notes/skills/synergy-case-builder/scripts/synergy_case.py.md",
+      "source_sha256": "2f213802b9823db6871c8b54ed276e27362fe6ca49d6a6eb194c61cbc75dba6e",
+      "output_sha256": "8ea255ccd025a5ca80fb4974242ad57e8ead4f3b96bf8ee3daff8567ecf85e0d",
+      "original_quotes_sha256": "728bc4a61209937b2f06e4c5bba765147647f10d40974dbb648118d66e6ec7e9",
+      "quote_count": 20,
+      "reviewed_canonical_source": "skills/synergy-case-builder/scripts/synergy_case.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/unit-economics-health-check/scripts/unit_economics.py",
+      "output": "localization/code-notes/skills/unit-economics-health-check/scripts/unit_economics.py.md",
+      "source_sha256": "a03657d7e27f71122fe1f9fb2fe68720f7e4b315151c8a98af662e458ddb566c",
+      "output_sha256": "36a301a866b0d3502fcf53cd4530d6eb92ea1b5311ca9270228e64afe86f80d7",
+      "original_quotes_sha256": "90ecdd657f0252876f9de27b25655ffba170d2f89ed0d0bf15748f7a4b746a31",
+      "quote_count": 23,
+      "reviewed_canonical_source": "skills/unit-economics-health-check/scripts/unit_economics.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    },
+    {
+      "source": "skills/war-gaming/scripts/decision_tree_ev.py",
+      "output": "localization/code-notes/skills/war-gaming/scripts/decision_tree_ev.py.md",
+      "source_sha256": "047ac724ea8fe183980f5cfb16700739344cd9b1e8ff5f2b356ab6a19880e554",
+      "output_sha256": "011aca9d136e6e63c8a7e9dbf4583833b2d12bfaac04a0aa1b6fdfaabb69197d",
+      "original_quotes_sha256": "7c52d5a67b29e47d3e7e9713f934626dfb5e7395794846de4d71432ed754da31",
+      "quote_count": 17,
+      "reviewed_canonical_source": "skills/war-gaming/scripts/decision_tree_ev.py",
+      "status": "all extracted prose compared with source and corrected by Codex; quoted source unchanged"
+    }
+  ],
+  "file_coverage": {
+    "source_files": 41,
+    "represented_source_files": 41,
+    "unrepresented_sources": [],
+    "scope": "all tracked source files have corresponding Japanese prose, configuration reference, code prose supplement, license reference or unchanged executable copy"
   }
 }
