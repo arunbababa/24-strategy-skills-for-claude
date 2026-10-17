@@ -1,0 +1,456 @@
+{
+  "upstream_commit": "f6825ba48543d52ce6a103af4109849e94d19a65",
+  "method": "Codex source-compared Japanese translation; original source files, executable code and frontmatter preserved",
+  "documents": [
+    {
+      "source": "CONTRIBUTING.md",
+      "translation": "ja/CONTRIBUTING.md",
+      "source_sha256": "2e8b4d9f8f5faf0051cb981548f40f43fc4b6e2c3499e1045d0b3450f9ea4b00",
+      "translation_sha256": "db3f02ee6748af8768e91fa0a34f9154d26e23230a48aa38474493aee1f7d3b3",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "README.md",
+      "translation": "ja/README.md",
+      "source_sha256": "912cd4ae10e2a54675dc607950043616a1ffb51bd768cde93c19a91622fb55b3",
+      "translation_sha256": "bf383c8c0090d1e60bff6689ad67f299791aedc814aeb8bf959ec17073cddef1",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/100-day-plan/SKILL.md",
+      "translation": "ja/skills/100-day-plan/SKILL.md",
+      "source_sha256": "ab3390c3f1eaec225a05cf0c86e8285a9c85178f1403b92b3c04a2626acb54c5",
+      "translation_sha256": "01aa3ce26ded210212ad5181acb72b912f4b2dcc8477fd2887812a0f5356340f",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/assumption-audit/SKILL.md",
+      "translation": "ja/skills/assumption-audit/SKILL.md",
+      "source_sha256": "1bbabd806275c94997a8631bbe992043a6993a52f5ff1dc5aa2676a5ddff0f54",
+      "translation_sha256": "94ccf410e405ab27e9d2913b3c497f085c2f14a8850de5428ee5211fd94d862c",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/business-case-builder/SKILL.md",
+      "translation": "ja/skills/business-case-builder/SKILL.md",
+      "source_sha256": "5853b7477d0371ccd7b6028aa7fdc294750663de7d2a93416fe3cf68ecccc445",
+      "translation_sha256": "d89749d0432aaf8bb6f649aeb2e1bd45291d2979e94a1cc1f1a3e01b5d077066",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/capital-reallocation-review/SKILL.md",
+      "translation": "ja/skills/capital-reallocation-review/SKILL.md",
+      "source_sha256": "ad7d545f0c703b81c0344ff32eb8f7391af512d2e19cef34d20078c877b34d89",
+      "translation_sha256": "52f29ab8de13f053894089ec52477df9cb3fe25269ee6ab915c08dcd32d9871a",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/competitive-intel/SKILL.md",
+      "translation": "ja/skills/competitive-intel/SKILL.md",
+      "source_sha256": "f232dc621685c7abda962ea215ec9dec57f32fccbde5e212a12644d6eb96a3b9",
+      "translation_sha256": "28cf5f3a5a26fbbe1e60f6393038ce3b31e260a50b36a724465aaf9fb0b576b9",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/customer-segmentation/SKILL.md",
+      "translation": "ja/skills/customer-segmentation/SKILL.md",
+      "source_sha256": "56ccacd40a227078ebda82d69302ffb1c7a3043126a32aa0c11a9b7e36e3392a",
+      "translation_sha256": "eb1431dc15311940e536b6a207aa784206d5a7aef2d6da1aa38c269538ad5fa8",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/decision-memo/SKILL.md",
+      "translation": "ja/skills/decision-memo/SKILL.md",
+      "source_sha256": "f76ca81d5435d4cd7ad7db2a2360624e6d73dcbe4b4d40d5ac6f8f8228131d7f",
+      "translation_sha256": "bb05fbffd24a1d6e66efac6899bfaf0641129dcc76d81ef47add15ee99885cb8",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/full-potential-diagnostic/SKILL.md",
+      "translation": "ja/skills/full-potential-diagnostic/SKILL.md",
+      "source_sha256": "2482e2f849f5d27912e7cda22c5532fe656e12c63cdf2af9184ab9bc8fe54ff9",
+      "translation_sha256": "916d1bb2fff4448c31bf385522945d724b0403168f5a4a5a91017ea14f510085",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/growth-barriers/SKILL.md",
+      "translation": "ja/skills/growth-barriers/SKILL.md",
+      "source_sha256": "bddd14bab1565632d6b083b38079c9bacac86eee505888044c4479da1f141bce",
+      "translation_sha256": "a963bc59e816cb1acf81766e27dd33fe47284491fc19f75d0dbe540ef5bd0c14",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/initiative-prioritizer/SKILL.md",
+      "translation": "ja/skills/initiative-prioritizer/SKILL.md",
+      "source_sha256": "c53db681f76cf153e314a9f6756e6d490e8e6a358b999dad4dffb717bd7f4c11",
+      "translation_sha256": "9f94d54d61a17606ff79fb5e125dbfd335c534ee6f1cc772d8c95353e63fcbc4",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/market-mapping/SKILL.md",
+      "translation": "ja/skills/market-mapping/SKILL.md",
+      "source_sha256": "40a0fea9df1a4c8b9474f81b2c03e263840347bf4d8da9e1a4895a64039cb936",
+      "translation_sha256": "2c38d8ac5ff27480d3fa254da09e4560d58f2552831b17cf2e002ebaab29127e",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/narrative-builder/SKILL.md",
+      "translation": "ja/skills/narrative-builder/SKILL.md",
+      "source_sha256": "123ceb9ab909a8e9d2feb0366b5a9099da0ed822eadf3a522300c1f765ec6f77",
+      "translation_sha256": "cb57c86c005133f327b58abc144914fee3d79797ec0dcb6fe4363e8eff0fb1da",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/negotiation-prep/SKILL.md",
+      "translation": "ja/skills/negotiation-prep/SKILL.md",
+      "source_sha256": "a52f7c3fe205aba9a535c942f13cc667be7336d0befd7e20976fd585c773cce9",
+      "translation_sha256": "383718668e7baeac74470407a03d1a9bcbc999d2de916c9bad557ee846f879e7",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/operating-model-design/SKILL.md",
+      "translation": "ja/skills/operating-model-design/SKILL.md",
+      "source_sha256": "68cfcad97e3471588bb3c650feb852efc756a911b266fdde0695a3d52942580d",
+      "translation_sha256": "d8c539effaf515873165622c5335090dcd4c0f0b4b5eccf04b309574eb288063",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/pricing-strategy/SKILL.md",
+      "translation": "ja/skills/pricing-strategy/SKILL.md",
+      "source_sha256": "6ca9567df0ddad91885e60ae75d21b80191ced584e21b72eae239a765588bb97",
+      "translation_sha256": "9c0290735871e3475c576998eefeeb43e5857716ddbc5d9a2bd6e8b3207c83d2",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/risk-mitigation/SKILL.md",
+      "translation": "ja/skills/risk-mitigation/SKILL.md",
+      "source_sha256": "3475a23762866bc27b6b5cf1bfcfeb75637eb6a2b4abeaf5f87916090132cd7d",
+      "translation_sha256": "ebe2c77588de5dd2c76a4e449585950b814d8ff93537d9b7416162eb50305269",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/situation-assessment/SKILL.md",
+      "translation": "ja/skills/situation-assessment/SKILL.md",
+      "source_sha256": "93474233bceabc7b0f32d89e498fbcfc4a0289269c141d9d8d5665ae42a79cfb",
+      "translation_sha256": "9f04dbd3c19f2e543f32e35a0272e0c7b2809edc3dba51ccc1323578bd681606",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/spans-layers-org-design/SKILL.md",
+      "translation": "ja/skills/spans-layers-org-design/SKILL.md",
+      "source_sha256": "36d76e8c3cf025b30288cb586b1f2c4b88648225f665b4849d42c8c79386b5ba",
+      "translation_sha256": "e26b430188e532db6abea64e2cbad763ae69bf7ba7f6c0957bb34c4087fc0bd1",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/stakeholder-alignment/SKILL.md",
+      "translation": "ja/skills/stakeholder-alignment/SKILL.md",
+      "source_sha256": "ace639f2cdde145dae5bea6b4139f1d629485e40572d08c058f80118d468e784",
+      "translation_sha256": "4e121df6da9d2e18dd16c1f295503bf23f4ee8b63cf3402c92d210354d5fce1e",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/strategic-options/SKILL.md",
+      "translation": "ja/skills/strategic-options/SKILL.md",
+      "source_sha256": "8bd25597156adaad592ae1222378b026c29f6c7fa6cdcbbfa7d7261350217819",
+      "translation_sha256": "c0ee93cc00aef4a2f58f62f729a1d4a665b7e881443c1806e0c2de3230e87759",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/synergy-case-builder/SKILL.md",
+      "translation": "ja/skills/synergy-case-builder/SKILL.md",
+      "source_sha256": "2283a40462b74442ca70e1a91ac5bc56ba76f291666cfd3a8714904b16111544",
+      "translation_sha256": "561e32c5d3f904fa035c2267b8b3a7db0d4b83daf0a94c8de7bdec315ef52a72",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/unit-economics-health-check/SKILL.md",
+      "translation": "ja/skills/unit-economics-health-check/SKILL.md",
+      "source_sha256": "b03be01ac84c7a0bd13c647b8b54a5c64cc04cbb3d1650cb3c89c0d78c4a6ee8",
+      "translation_sha256": "ee09795675e3cc51852271fbf6b432502c557e02a069893740a8880569d268b6",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/value-realization/SKILL.md",
+      "translation": "ja/skills/value-realization/SKILL.md",
+      "source_sha256": "70d4e03171f6e70b7fdc5821f832824d184aac67a0ff810d5f6cd556b95a59e9",
+      "translation_sha256": "acda0428d332e0df82ed9c802960d87c7dc28e5bf4f1cfc4fc3785a0eddad82f",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    },
+    {
+      "source": "skills/war-gaming/SKILL.md",
+      "translation": "ja/skills/war-gaming/SKILL.md",
+      "source_sha256": "a3701abc65e02f81e45bcdee72a7c423064c850a40c90d85518e3da19498029b",
+      "translation_sha256": "cc3843a58915a5745e5baf3d3dd5cf4a6f5e7facbd33af2fcf629b5d63b6c7c4",
+      "status": "source-compared complete Japanese translation by Codex; original code and frontmatter retained"
+    }
+  ],
+  "upstream_files": [
+    {
+      "path": ".gitignore",
+      "sha256": "aa5c45b73c4c9d76ad5f472e85354aed48de60640882252dc26d9ec1eacb0260"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "2e8b4d9f8f5faf0051cb981548f40f43fc4b6e2c3499e1045d0b3450f9ea4b00"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "da005318a0ee959cac8e0317b11f3608575f2a4c7ce9a74dd4218c7544cf3ee5"
+    },
+    {
+      "path": "README.md",
+      "sha256": "912cd4ae10e2a54675dc607950043616a1ffb51bd768cde93c19a91622fb55b3"
+    },
+    {
+      "path": "skills/100-day-plan/SKILL.md",
+      "sha256": "ab3390c3f1eaec225a05cf0c86e8285a9c85178f1403b92b3c04a2626acb54c5"
+    },
+    {
+      "path": "skills/assumption-audit/SKILL.md",
+      "sha256": "1bbabd806275c94997a8631bbe992043a6993a52f5ff1dc5aa2676a5ddff0f54"
+    },
+    {
+      "path": "skills/business-case-builder/SKILL.md",
+      "sha256": "5853b7477d0371ccd7b6028aa7fdc294750663de7d2a93416fe3cf68ecccc445"
+    },
+    {
+      "path": "skills/business-case-builder/scripts/npv_case.py",
+      "sha256": "c07b7d6536043ee1cb7c569b2c5b25daa9b14bedb8e8f37737d43f274745f282"
+    },
+    {
+      "path": "skills/capital-reallocation-review/SKILL.md",
+      "sha256": "ad7d545f0c703b81c0344ff32eb8f7391af512d2e19cef34d20078c877b34d89"
+    },
+    {
+      "path": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+      "sha256": "ab81e4321f23dc5f8c09dfcd5203e52032e2dc764c2bd7060205c0cf6f08e4ec"
+    },
+    {
+      "path": "skills/competitive-intel/SKILL.md",
+      "sha256": "f232dc621685c7abda962ea215ec9dec57f32fccbde5e212a12644d6eb96a3b9"
+    },
+    {
+      "path": "skills/customer-segmentation/SKILL.md",
+      "sha256": "56ccacd40a227078ebda82d69302ffb1c7a3043126a32aa0c11a9b7e36e3392a"
+    },
+    {
+      "path": "skills/decision-memo/SKILL.md",
+      "sha256": "f76ca81d5435d4cd7ad7db2a2360624e6d73dcbe4b4d40d5ac6f8f8228131d7f"
+    },
+    {
+      "path": "skills/full-potential-diagnostic/SKILL.md",
+      "sha256": "2482e2f849f5d27912e7cda22c5532fe656e12c63cdf2af9184ab9bc8fe54ff9"
+    },
+    {
+      "path": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+      "sha256": "50cc8dc6a60874fe4051b3455c41a56e6f407c908fef07456c807484a14391f9"
+    },
+    {
+      "path": "skills/growth-barriers/SKILL.md",
+      "sha256": "bddd14bab1565632d6b083b38079c9bacac86eee505888044c4479da1f141bce"
+    },
+    {
+      "path": "skills/initiative-prioritizer/SKILL.md",
+      "sha256": "c53db681f76cf153e314a9f6756e6d490e8e6a358b999dad4dffb717bd7f4c11"
+    },
+    {
+      "path": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+      "sha256": "793eedce964d0b818d079225fdfc59e2f7a437a742e4e3f4e69e6ebd11248a79"
+    },
+    {
+      "path": "skills/market-mapping/SKILL.md",
+      "sha256": "40a0fea9df1a4c8b9474f81b2c03e263840347bf4d8da9e1a4895a64039cb936"
+    },
+    {
+      "path": "skills/market-mapping/scripts/tam_sam_som.py",
+      "sha256": "d8fc81267a0b37b10b9ad65507f7639dfa64ad0a88143c1e236b93d40b1c22a3"
+    },
+    {
+      "path": "skills/narrative-builder/SKILL.md",
+      "sha256": "123ceb9ab909a8e9d2feb0366b5a9099da0ed822eadf3a522300c1f765ec6f77"
+    },
+    {
+      "path": "skills/negotiation-prep/SKILL.md",
+      "sha256": "a52f7c3fe205aba9a535c942f13cc667be7336d0befd7e20976fd585c773cce9"
+    },
+    {
+      "path": "skills/negotiation-prep/scripts/batna_zopa.py",
+      "sha256": "2b68397b9e96da673fcb9ec0512066d17fb7e7ef07866393d24219f1f5f7d612"
+    },
+    {
+      "path": "skills/operating-model-design/SKILL.md",
+      "sha256": "68cfcad97e3471588bb3c650feb852efc756a911b266fdde0695a3d52942580d"
+    },
+    {
+      "path": "skills/pricing-strategy/SKILL.md",
+      "sha256": "6ca9567df0ddad91885e60ae75d21b80191ced584e21b72eae239a765588bb97"
+    },
+    {
+      "path": "skills/pricing-strategy/scripts/pricing_calculator.py",
+      "sha256": "7a9f312a2377c4bb1be19698eebe62347127db55f7b46b96c196e5c5a9b3543d"
+    },
+    {
+      "path": "skills/risk-mitigation/SKILL.md",
+      "sha256": "3475a23762866bc27b6b5cf1bfcfeb75637eb6a2b4abeaf5f87916090132cd7d"
+    },
+    {
+      "path": "skills/risk-mitigation/scripts/risk_matrix.py",
+      "sha256": "86926e3099667c1e6279666224c886299a92229f07aff81e08aef642aebc0634"
+    },
+    {
+      "path": "skills/situation-assessment/SKILL.md",
+      "sha256": "93474233bceabc7b0f32d89e498fbcfc4a0289269c141d9d8d5665ae42a79cfb"
+    },
+    {
+      "path": "skills/spans-layers-org-design/SKILL.md",
+      "sha256": "36d76e8c3cf025b30288cb586b1f2c4b88648225f665b4849d42c8c79386b5ba"
+    },
+    {
+      "path": "skills/spans-layers-org-design/scripts/spans_layers.py",
+      "sha256": "899e35ab36f6ea0c172a8aa1604092961a12f297eb8baeec4c024de925ad7d63"
+    },
+    {
+      "path": "skills/stakeholder-alignment/SKILL.md",
+      "sha256": "ace639f2cdde145dae5bea6b4139f1d629485e40572d08c058f80118d468e784"
+    },
+    {
+      "path": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+      "sha256": "52db9de7ca1f9da7f50196c333acaf55b966d378c7cb0bd97edb313b1c32d174"
+    },
+    {
+      "path": "skills/strategic-options/SKILL.md",
+      "sha256": "8bd25597156adaad592ae1222378b026c29f6c7fa6cdcbbfa7d7261350217819"
+    },
+    {
+      "path": "skills/synergy-case-builder/SKILL.md",
+      "sha256": "2283a40462b74442ca70e1a91ac5bc56ba76f291666cfd3a8714904b16111544"
+    },
+    {
+      "path": "skills/synergy-case-builder/scripts/synergy_case.py",
+      "sha256": "2f213802b9823db6871c8b54ed276e27362fe6ca49d6a6eb194c61cbc75dba6e"
+    },
+    {
+      "path": "skills/unit-economics-health-check/SKILL.md",
+      "sha256": "b03be01ac84c7a0bd13c647b8b54a5c64cc04cbb3d1650cb3c89c0d78c4a6ee8"
+    },
+    {
+      "path": "skills/unit-economics-health-check/scripts/unit_economics.py",
+      "sha256": "a03657d7e27f71122fe1f9fb2fe68720f7e4b315151c8a98af662e458ddb566c"
+    },
+    {
+      "path": "skills/value-realization/SKILL.md",
+      "sha256": "70d4e03171f6e70b7fdc5821f832824d184aac67a0ff810d5f6cd556b95a59e9"
+    },
+    {
+      "path": "skills/war-gaming/SKILL.md",
+      "sha256": "a3701abc65e02f81e45bcdee72a7c423064c850a40c90d85518e3da19498029b"
+    },
+    {
+      "path": "skills/war-gaming/scripts/decision_tree_ev.py",
+      "sha256": "047ac724ea8fe183980f5cfb16700739344cd9b1e8ff5f2b356ab6a19880e554"
+    }
+  ],
+  "markdown_coverage": {
+    "expected": 26,
+    "present": 26
+  },
+  "validation": {
+    "issues": [],
+    "translated_link_targets_missing": [],
+    "upstream_link_targets_already_missing": [],
+    "upstream_files_unchanged": true
+  },
+  "supplementary_translations": [
+    {
+      "source": "LICENSE",
+      "output": "ja/LICENSE.md",
+      "source_sha256": "da005318a0ee959cac8e0317b11f3608575f2a4c7ce9a74dd4218c7544cf3ee5",
+      "output_sha256": "69c4920129c0306315c6e48a46ad2200432de2ed135d054e705ecb22d2eed545"
+    }
+  ],
+  "unchanged_asset_copies": [
+    {
+      "source": "skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+      "output": "ja/skills/initiative-prioritizer/scripts/rice_prioritizer.py",
+      "source_sha256": "793eedce964d0b818d079225fdfc59e2f7a437a742e4e3f4e69e6ebd11248a79",
+      "output_sha256": "793eedce964d0b818d079225fdfc59e2f7a437a742e4e3f4e69e6ebd11248a79"
+    },
+    {
+      "source": "skills/spans-layers-org-design/scripts/spans_layers.py",
+      "output": "ja/skills/spans-layers-org-design/scripts/spans_layers.py",
+      "source_sha256": "899e35ab36f6ea0c172a8aa1604092961a12f297eb8baeec4c024de925ad7d63",
+      "output_sha256": "899e35ab36f6ea0c172a8aa1604092961a12f297eb8baeec4c024de925ad7d63"
+    },
+    {
+      "source": "skills/stakeholder-alignment/scripts/power_interest_grid.py",
+      "output": "ja/skills/stakeholder-alignment/scripts/power_interest_grid.py",
+      "source_sha256": "52db9de7ca1f9da7f50196c333acaf55b966d378c7cb0bd97edb313b1c32d174",
+      "output_sha256": "52db9de7ca1f9da7f50196c333acaf55b966d378c7cb0bd97edb313b1c32d174"
+    },
+    {
+      "source": "skills/negotiation-prep/scripts/batna_zopa.py",
+      "output": "ja/skills/negotiation-prep/scripts/batna_zopa.py",
+      "source_sha256": "2b68397b9e96da673fcb9ec0512066d17fb7e7ef07866393d24219f1f5f7d612",
+      "output_sha256": "2b68397b9e96da673fcb9ec0512066d17fb7e7ef07866393d24219f1f5f7d612"
+    },
+    {
+      "source": "skills/market-mapping/scripts/tam_sam_som.py",
+      "output": "ja/skills/market-mapping/scripts/tam_sam_som.py",
+      "source_sha256": "d8fc81267a0b37b10b9ad65507f7639dfa64ad0a88143c1e236b93d40b1c22a3",
+      "output_sha256": "d8fc81267a0b37b10b9ad65507f7639dfa64ad0a88143c1e236b93d40b1c22a3"
+    },
+    {
+      "source": "skills/unit-economics-health-check/scripts/unit_economics.py",
+      "output": "ja/skills/unit-economics-health-check/scripts/unit_economics.py",
+      "source_sha256": "a03657d7e27f71122fe1f9fb2fe68720f7e4b315151c8a98af662e458ddb566c",
+      "output_sha256": "a03657d7e27f71122fe1f9fb2fe68720f7e4b315151c8a98af662e458ddb566c"
+    },
+    {
+      "source": "skills/pricing-strategy/scripts/pricing_calculator.py",
+      "output": "ja/skills/pricing-strategy/scripts/pricing_calculator.py",
+      "source_sha256": "7a9f312a2377c4bb1be19698eebe62347127db55f7b46b96c196e5c5a9b3543d",
+      "output_sha256": "7a9f312a2377c4bb1be19698eebe62347127db55f7b46b96c196e5c5a9b3543d"
+    },
+    {
+      "source": "skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+      "output": "ja/skills/full-potential-diagnostic/scripts/full_potential_calc.py",
+      "source_sha256": "50cc8dc6a60874fe4051b3455c41a56e6f407c908fef07456c807484a14391f9",
+      "output_sha256": "50cc8dc6a60874fe4051b3455c41a56e6f407c908fef07456c807484a14391f9"
+    },
+    {
+      "source": "skills/synergy-case-builder/scripts/synergy_case.py",
+      "output": "ja/skills/synergy-case-builder/scripts/synergy_case.py",
+      "source_sha256": "2f213802b9823db6871c8b54ed276e27362fe6ca49d6a6eb194c61cbc75dba6e",
+      "output_sha256": "2f213802b9823db6871c8b54ed276e27362fe6ca49d6a6eb194c61cbc75dba6e"
+    },
+    {
+      "source": "skills/war-gaming/scripts/decision_tree_ev.py",
+      "output": "ja/skills/war-gaming/scripts/decision_tree_ev.py",
+      "source_sha256": "047ac724ea8fe183980f5cfb16700739344cd9b1e8ff5f2b356ab6a19880e554",
+      "output_sha256": "047ac724ea8fe183980f5cfb16700739344cd9b1e8ff5f2b356ab6a19880e554"
+    },
+    {
+      "source": "skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+      "output": "ja/skills/capital-reallocation-review/scripts/portfolio_matrix.py",
+      "source_sha256": "ab81e4321f23dc5f8c09dfcd5203e52032e2dc764c2bd7060205c0cf6f08e4ec",
+      "output_sha256": "ab81e4321f23dc5f8c09dfcd5203e52032e2dc764c2bd7060205c0cf6f08e4ec"
+    },
+    {
+      "source": "skills/risk-mitigation/scripts/risk_matrix.py",
+      "output": "ja/skills/risk-mitigation/scripts/risk_matrix.py",
+      "source_sha256": "86926e3099667c1e6279666224c886299a92229f07aff81e08aef642aebc0634",
+      "output_sha256": "86926e3099667c1e6279666224c886299a92229f07aff81e08aef642aebc0634"
+    },
+    {
+      "source": "skills/business-case-builder/scripts/npv_case.py",
+      "output": "ja/skills/business-case-builder/scripts/npv_case.py",
+      "source_sha256": "c07b7d6536043ee1cb7c569b2c5b25daa9b14bedb8e8f37737d43f274745f282",
+      "output_sha256": "c07b7d6536043ee1cb7c569b2c5b25daa9b14bedb8e8f37737d43f274745f282"
+    }
+  ],
+  "prose_in_code_notes": {
+    "path": "localization/CODE-AND-FENCE-NOTES.ja.md",
+    "status": "machine-translated reference draft; original code unchanged"
+  }
+}
